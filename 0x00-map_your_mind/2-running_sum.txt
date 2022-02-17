@@ -1,0 +1,9 @@
+enter a number _____
+let the number entered be X
+let answer= 0
+while x>=0
+    answer = answer + X 
+    enter a number _____
+    let the number = X 
+    // This loop will be brokn out of when the user enters a negtive number
+return answer.

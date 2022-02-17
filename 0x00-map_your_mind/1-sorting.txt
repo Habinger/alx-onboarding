@@ -1,0 +1,10 @@
+Let the numbers be in variables A B and C 
+if A>C
+    exchange the values of A and C
+if A > B
+    exchange the values of A and B 
+//now that we know the smallest value is assigned to a all thats left is b and c
+if B > C 
+    exchange the values of B and C 
+return A, B, C 
+//This will always return them in ascending order.

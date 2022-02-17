@@ -1,0 +1,7 @@
+let the input be in an array called X
+let the result be 0
+for each item in X
+    square = item * item
+    result = result + square
+return the result
+    
